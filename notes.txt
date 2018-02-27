@@ -1,0 +1,12 @@
+First, look for location of post password.
+
+Its main+375 (0x400d22)
+
+
+wants to return to
+400cf7
+
+so we'll give it
+
+w0x00007fff 0x400d22.
+
